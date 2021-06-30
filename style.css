@@ -212,6 +212,10 @@ select > option {
   cursor: pointer;
 }
 
+#fullscreen-icon:hover {
+  color: var(--primary-color);
+}
+
 .video-fullscreen {
   position: relative;
   top: 50%;
