@@ -18,7 +18,7 @@
 
 [calc()](https://developer.mozilla.org/en-US/docs/Web/CSS/calc())
 
-[<select>: The HTML Select element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
+[\<select\>: The HTML Select element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
 
 [HTML Audio/Video DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
 
