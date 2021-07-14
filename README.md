@@ -21,7 +21,7 @@
 
 ## Resources and References
 
-[Hero Pattersons](https://www.heropatterns.com/)
+[Hero Patterns](https://www.heropatterns.com/)
 
 [pixabay Videos](https://pixabay.com/videos/)
 
