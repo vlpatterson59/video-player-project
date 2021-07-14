@@ -21,6 +21,8 @@
 
 ## Resources and References
 
+[Hero Pattersons](https://www.heropatterns.com/)
+
 [pixabay Videos](https://pixabay.com/videos/)
 
 [Font Awesome Icons](https://fontawesome.com/v5.15/icons?d=gallery&p=2&m=free)
