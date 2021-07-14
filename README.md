@@ -4,11 +4,20 @@
 
 ## Modifications and Enhancements
 
+- [ ] add a Settings feature
+- [ ] replace Font Awesome Icons with Google Font Icons
+    * Fullscreen
+    * Fullscreen Exit
+    * Play Circle / Pause Circle
+    * Volume Up / Volume Down / Volume Off / Volume Mute
+    * Picture in Picture
 
 
 ## What I Learned
 
-
+* [The JavaScript String replace() method](https://www.w3schools.com/jsref/jsref_replace.asp)
+* [HTML DOM setAttribute() method](https://www.w3schools.com/jsref/met_element_setattribute.asp)
+* before using ``**element**.classList.add()``, clear with ``**element**.className = ''``
 
 ## Resources and References
 
